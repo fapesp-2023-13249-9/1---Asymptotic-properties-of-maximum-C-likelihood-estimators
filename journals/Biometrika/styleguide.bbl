@@ -1,0 +1,122 @@
+\begin{thebibliography}{20}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Aldrich et~al.(1997)}]{aldrich1997ra}
+\textsc{Aldrich, J.} et~al. (1997).
+\newblock Ra fisher and the making of maximum likelihood 1912-1922.
+\newblock \textit{Statistical science} \textbf{12}, 162--176.
+
+\bibitem[{Andersen(1970)}]{andersen1970asymptotic}
+\textsc{Andersen, E.~B.} (1970).
+\newblock Asymptotic properties of conditional maximum-likelihood estimators.
+\newblock \textit{Journal of the Royal Statistical Society: Series B
+  (Methodological)} \textbf{32}, 283--301.
+
+\bibitem[{Anderson \& Blair(1982)}]{anderson1982penalized}
+\textsc{Anderson, J.} \& \textsc{Blair, V.} (1982).
+\newblock Penalized maximum likelihood estimation in logistic regression and
+  discrimination.
+\newblock \textit{Biometrika} \textbf{69}, 123--136.
+
+\bibitem[{Aryal \& Nadarajah(2004)}]{aryal2004information}
+\textsc{Aryal, G.} \& \textsc{Nadarajah, S.} (2004).
+\newblock Information matrix for beta distributions.
+\newblock \textit{Serdica Mathematical Journal} \textbf{30}, 513p--526p.
+
+\bibitem[{Bierens(2004)}]{2004-Bierens}
+\textsc{Bierens, H.~J.} (2004).
+\newblock \textit{Introduction to the mathematical and statistical foundations
+  of econometrics}.
+\newblock Cambridge University Press.
+
+\bibitem[{Cheng \& Amin(1983)}]{Cheng2}
+\textsc{Cheng, R.} \& \textsc{Amin, N.} (1983).
+\newblock Estimating parameters in continuous univariate distributions with a
+  shifted origin.
+\newblock \textit{Journal of the Royal Statistical Society. Series B
+  (Methodological)} , 394--403.
+
+\bibitem[{Cox(1975)}]{cox1975partial}
+\textsc{Cox, D.~R.} (1975).
+\newblock Partial likelihood.
+\newblock \textit{Biometrika} \textbf{62}, 269--276.
+
+\bibitem[{Dempster et~al.(1977)Dempster, Laird \& Rubin}]{dempster1977maximum}
+\textsc{Dempster, A.~P.}, \textsc{Laird, N.~M.} \& \textsc{Rubin, D.~B.}
+  (1977).
+\newblock Maximum likelihood from incomplete data via the em algorithm.
+\newblock \textit{Journal of the Royal Statistical Society: Series B
+  (Methodological)} \textbf{39}, 1--22.
+
+\bibitem[{Firth(1993)}]{firth1993bias}
+\textsc{Firth, D.} (1993).
+\newblock Bias reduction of maximum likelihood estimates.
+\newblock \textit{Biometrika} \textbf{80}, 27--38.
+
+\bibitem[{Gourieroux et~al.(1984)Gourieroux, Monfort \&
+  Trognon}]{gourieroux1984pseudo}
+\textsc{Gourieroux, C.}, \textsc{Monfort, A.} \& \textsc{Trognon, A.} (1984).
+\newblock Pseudo maximum likelihood methods: Theory.
+\newblock \textit{Econometrica: journal of the Econometric Society} , 681--700.
+
+\bibitem[{Hager \& Bain(1970)}]{1970-Hager}
+\textsc{Hager, H.~W.} \& \textsc{Bain, L.~J.} (1970).
+\newblock Inferential procedures for the generalized gamma distribution.
+\newblock \textit{Journal of the American Statistical Association} \textbf{65},
+  1601--1609.
+
+\bibitem[{Hosking(1990)}]{hosking1990moments}
+\textsc{Hosking, J.~R.} (1990).
+\newblock L-moments: Analysis and estimation of distributions using linear
+  combinations of order statistics.
+\newblock \textit{Journal of the Royal Statistical Society: Series B
+  (Methodological)} \textbf{52}, 105--124.
+
+\bibitem[{Kao(1958)}]{kao1}
+\textsc{Kao, J.~H.} (1958).
+\newblock Computer methods for estimating weibull parameters in reliability
+  studies.
+\newblock \textit{IRE Transactions on Reliability and Quality Control} ,
+  15--22.
+
+\bibitem[{Kao(1959)}]{kao2}
+\textsc{Kao, J.~H.} (1959).
+\newblock A graphical estimation of mixed weibull parameters in life-testing of
+  electron tubes.
+\newblock \textit{Technometrics} \textbf{1}, 389--407.
+
+\bibitem[{Lehmann \& Casella(2006)}]{2006-Lehmann}
+\textsc{Lehmann, E.~L.} \& \textsc{Casella, G.} (2006).
+\newblock \textit{Theory of point estimation}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[{Lehmann \& Romano(2008)}]{2008-Lehmann}
+\textsc{Lehmann, E.~L.} \& \textsc{Romano, J.~P.} (2008).
+\newblock \textit{Testing statistical hypotheses}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[{Louzada et~al.(2019)Louzada, Ramos \& Ramos}]{louzada2019note}
+\textsc{Louzada, F.}, \textsc{Ramos, P.~L.} \& \textsc{Ramos, E.} (2019).
+\newblock A note on bias of closed-form estimators for the gamma distribution
+  derived from likelihood equations.
+\newblock \textit{The American Statistician} \textbf{73}, 195--199.
+
+\bibitem[{Murphy \& Van~der Vaart(2000)}]{murphy2000profile}
+\textsc{Murphy, S.~A.} \& \textsc{Van~der Vaart, A.~W.} (2000).
+\newblock On profile likelihood.
+\newblock \textit{Journal of the American Statistical Association} \textbf{95},
+  449--465.
+
+\bibitem[{Ramos et~al.(2020)Ramos, Louzada \& Ramos}]{ramos2020bias}
+\textsc{Ramos, P.~L.}, \textsc{Louzada, F.} \& \textsc{Ramos, E.} (2020).
+\newblock Bias reduction in the closed-form maximum likelihood estimator for
+  the nakagami-m fading parameter.
+\newblock \textit{IEEE Wireless Communications Letters} \textbf{9}, 1692--1695.
+
+\bibitem[{Redner et~al.(1981)}]{redner1981note}
+\textsc{Redner, R.} et~al. (1981).
+\newblock Note on the consistency of the maximum likelihood estimate for
+  nonidentifiable distributions.
+\newblock \textit{Annals of Statistics} \textbf{9}, 225--228.
+
+\end{thebibliography}
